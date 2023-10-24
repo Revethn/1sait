@@ -1,0 +1,28 @@
+#check {
+
+}
+
+.label {
+    position: sticky;
+    top: 20px;
+    display: block;
+    width: 40px;
+    height: 40px;
+    background-color: crimson;
+}
+
+.hidden-block {
+
+    width: 200px;
+    height: 250px;
+    background-color: rgb(17, 255, 0);
+}
+
+body {
+    height: 2000px;
+}
+.block {
+    height: 500px;
+    width: 100%;
+    background-color: dodgerblue;
+}
